@@ -1,0 +1,79 @@
+*{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+}
+body {
+    background-color: rgb(43, 43, 43);
+}
+
+.header,
+.footer {
+    background-color: rgb(20, 20, 20);
+    height: 100px;
+}
+
+.content {
+    background-color: rgb(43, 43, 43);
+    
+}
+
+/* .focus , .Suicide-Squad , .bright {
+    width: 40%;
+} */
+
+h1{
+color: rgb(177, 0, 0)
+}
+
+/* .films{
+    width: 40vw;
+    display: inline-block;
+} */
+
+/* .img-cont{
+    width: 250px;
+    height: 150px;
+    background-color: red;
+    text-align: center;
+} */
+
+img{
+    height: 100%;
+}
+
+.cont-film{
+    background-color: rgb(15, 15, 15);
+    display: inline-block;
+    width: 50vw;
+}
+.cont-series{
+    background-color: rgb(15, 15, 15);
+    display: inline-block;
+    width: 50vw;
+}
+.top5{
+  padding: 30px;
+}
+.info-table{
+    margin-left: 80%;
+   border: 3px solid rgb(177, 0, 0);
+   width:300px;
+   position:relative;
+  
+}
+.headerh1{
+    position:relative;
+    top: -30px;
+    border: 5px solid rgb(15, 15, 15);
+    width: 150px;
+}
+th{
+    border: 2px solid rgb(177, 0, 0);
+}
+.headerh2{
+    border: 5px solid rgb(15, 15, 15);
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
