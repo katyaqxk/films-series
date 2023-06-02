@@ -36,6 +36,56 @@ body {
     width: 900px;
     height: 700px;
 } */
-img {
+/* img {
     width: 100%;
+} */
+.logo {
+    width: 230px;
+    height: 140px;
+    margin-top: 5px;
+}
+.info-table {
+    margin-left: 67%;
+    margin-top: 25px;
+    border: 3px solid rgb(177, 0, 0);
+    width: 300px;
+    position: absolute;
+    display: inline;
+     color: white;
+
+}
+th{
+    border: 2px solid rgb(177, 0, 0);
+}
+.content{
+    height:1000px;
+    display: block;   
+}
+.contacts{
+   background-color: red;
+   width: 49%;
+   display: inline-block;
+   
+}
+input{
+    width: 400px;
+    height: 50px;
+}
+.map{
+    width: 49%;
+    display: inline-block;
+  
+}
+
+.contacts, .map{
+    height: 50%;
+    width: 700px;
+    display: inline-block;
+}
+.iframe-map{
+    height: 100%;
+    width: 300px;
+}
+.j{
+    width: 350px;
 }
